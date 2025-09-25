@@ -1,2 +1,2 @@
 # CUDA-projects
-Various mini-projects built with CUDA
+Me building various projects in CUDA to enrich my knowledge
